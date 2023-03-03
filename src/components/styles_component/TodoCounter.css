@@ -1,0 +1,12 @@
+.mainHeading{
+  width: calc(100vw-40px);
+  color: var(--textColor);
+  font-size: 48px;
+  text-align: center;
+  margin: 20px;
+}
+@media screen and (max-width: 500px){
+  .mainHeading{
+    font-size: 40px;
+  }
+}

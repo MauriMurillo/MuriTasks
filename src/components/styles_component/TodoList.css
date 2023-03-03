@@ -1,0 +1,19 @@
+.listContainer{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.listContainer .listTodo{
+  list-style-type: none;
+  padding: 0;
+}
+.listTodo  > *:nth-child(3n + 1){
+  background-color: var(--todoItemBack);
+}
+.listTodo  > *:nth-child(3n + 2){
+  background-color: var(--todoItemBack2);
+}
+.listTodo  > *:nth-child(3n + 3){
+  background-color: var(--todoItemBack3);
+}
+

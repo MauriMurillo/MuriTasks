@@ -1,0 +1,16 @@
+.buttonContainer{
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.buttonContainer .buttonAdd{
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  background-color: var(--textColor);
+  border: none;
+  font-size: 42px;
+  font-weight: 300;
+  color: white;
+}
