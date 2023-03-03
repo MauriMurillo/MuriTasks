@@ -4,12 +4,10 @@ import { useEffect, useState } from "react";
 const TodoContext = React.createContext();
 
 const defaultTodos = [
-  { text: "ver shark tank mexico", completed: false },
-  { text: "jugar catan con los padres", completed: false },
-  { text: "llamarlo al diego", completed: false },
-  { text: "decirle al quique feliz cumpleanios", completed: false },
-  { text: "santi esucha el famous last words", completed: false },
-  { text: "oh que la cancion", completed: false },
+  { text: "Bienvenido a MuriTasks", completed: false },
+  { text: "<- Usa los botones para completar y eliminar ->", completed: false },
+  { text: "Puedes crear nuevas tareas con el signo +", completed: false },
+  { text: "Puedes usar el buscador para filtrar tareas por su contenido disfruta", completed: false },
 ];
 
 function TodoProvider(props){
