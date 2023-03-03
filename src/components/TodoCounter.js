@@ -5,8 +5,7 @@ function TodoCounter() {
   const { totalTodos, todosCompleted } = useContext(TodoContext);
   return (
     <h1 className="mainHeading">
-      {" "}
-      Has completado {todosCompleted} de {totalTodos} ToDos{" "}
+      Has completado {todosCompleted} de {totalTodos} MuriTasks
     </h1>
   );
 }

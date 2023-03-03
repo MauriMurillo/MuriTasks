@@ -8,6 +8,7 @@
   margin: 20px;
   padding: 10px 0px;
   text-align: center;
+  max-width: 400px;
 }
 .itemTodo .icon{
   color: var(--backColor2);
@@ -43,4 +44,13 @@
 .true > .iconCheck > p{
   color: green;
   font-weight: 900;
+}
+
+@media screen and (max-width: 450px){
+  .itemTodo > p{
+    font-size: 18px;
+  }
+  .searchBar:hover{
+    min-width: 370px;
+  }
 }
