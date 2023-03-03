@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MuriTasks/static/css/main.e10080d1.css",
+    "main.js": "/MuriTasks/static/js/main.e4fb5544.js",
+    "index.html": "/MuriTasks/index.html",
+    "main.e10080d1.css.map": "/MuriTasks/static/css/main.e10080d1.css.map",
+    "main.e4fb5544.js.map": "/MuriTasks/static/js/main.e4fb5544.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e10080d1.css",
+    "static/js/main.e4fb5544.js"
+  ]
+}
