@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/MuriTasks/static/css/main.a0d9d567.css",
-    "main.js": "/MuriTasks/static/js/main.8d6431b0.js",
+    "main.css": "/MuriTasks/static/css/main.c31a8966.css",
+    "main.js": "/MuriTasks/static/js/main.fa5e5b02.js",
     "index.html": "/MuriTasks/index.html",
-    "main.a0d9d567.css.map": "/MuriTasks/static/css/main.a0d9d567.css.map",
-    "main.8d6431b0.js.map": "/MuriTasks/static/js/main.8d6431b0.js.map"
+    "main.c31a8966.css.map": "/MuriTasks/static/css/main.c31a8966.css.map",
+    "main.fa5e5b02.js.map": "/MuriTasks/static/js/main.fa5e5b02.js.map"
   },
   "entrypoints": [
-    "static/css/main.a0d9d567.css",
-    "static/js/main.8d6431b0.js"
+    "static/css/main.c31a8966.css",
+    "static/js/main.fa5e5b02.js"
   ]
 }
