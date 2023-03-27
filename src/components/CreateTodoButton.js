@@ -7,7 +7,7 @@ function CreateTodoButton() {
   return (
     <div className="buttonContainer">
       <button className="buttonAdd" onClick={onClickButtonShowAdd}>
-        +
+        <span>+</span>
       </button>
     </div>
   );

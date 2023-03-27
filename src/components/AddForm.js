@@ -9,11 +9,11 @@ function AddForm() {
   }
   return (
     <div className="addContainer">
-      <p> Anade el nuevo todo a la lista </p>
+      <p> Agrega una nueva tarea</p>
       <input
         value={addParam}
         type="text"
-        placeholder="Desarrollar aplicacion ToDoMachine"
+        placeholder="ej. Llamar a mis padres"
         id="add"
         onChange={updateAddParam}
       ></input>
